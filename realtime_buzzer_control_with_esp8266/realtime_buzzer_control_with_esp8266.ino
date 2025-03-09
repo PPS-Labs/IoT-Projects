@@ -10,8 +10,8 @@ const long  gmtOffset_sec = 19800;  // GMT+5:30 for IST
 const int   daylightOffset_sec = 0;
 
 // WiFi Credentials
-const char* ssid = "Airtel_AshwinPammal";
-const char* password = "Pammalveedu";
+const char* ssid = "";//add your ssid here
+const char* password = "";//add your password here
 
 // MQTT Broker Details
 const char* mqtt_server = "3.111.85.110"; // Replace with your AWS Elastic IP
